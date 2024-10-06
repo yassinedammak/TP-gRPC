@@ -1,0 +1,7 @@
+venv/
+TP-grpc/
+__pycache__/
+*.pyc
+node_modules/
+*.log
+*.lock
